@@ -1,4 +1,4 @@
-# Café Clickstream Data Analytics on AWS#
+# Café Clickstream Data Analytics on AWS #
 This project demonstrates the creation of a data pipeline to collect, process, visualize, and analyze web traffic (clickstream) data from a café website hosted on AWS. It involves using services like Amazon EC2, CloudWatch, Cloud9, S3, and Athena to gain insights into user behavior and site performance.
 
 ## Project Overview ##
@@ -17,10 +17,10 @@ Further analysis is done using Athena (optional).
 Uploaded access logs to S3 bucket for archival
 
 ## Key AWS Services Used ##
-Amazon EC2
-Amazon Cloud9
-Amazon CloudWatch (Logs + Insights + Dashboards)
-Amazon S3
+Amazon EC2,
+Amazon Cloud9,
+Amazon CloudWatch (Logs + Insights + Dashboards),
+Amazon S3,
 Amazon IAM
 
 ## Learnings ##
@@ -30,7 +30,7 @@ Setting up AWS CloudWatch dashboards
 Using AWS CLI to manage log flow and backups
 Performing structured analysis using Logs Insights
 ### Author ###
-Pravallika Palavayi
+Pravallika Palavayi|
 Developer & Cloud Enthusiast | AWS Learner
 
 
